@@ -1,75 +1,64 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Project Name
-
-> Description the project.
 
 
-## Built With
+## To Do Tasks
 
-- Major languages
-- Frameworks
-- Technologies used
+> This is an To Do List app where one creates tasks that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete.
 
-## Live Demo (if available)
+**Additional description about the project and its features.**
+- This is webpack set up 
 
-[Live Demo Link](https://livedemo.com)
+## Webpack Basic Set Up
+- https://webpack.js.org/guides/getting-started/#basic-setup
 
+## Html Webpack Plugin
+- https://webpack.js.org/guides/output-management/#setting-up-htmlwebpackplugin
 
-## Getting Started
+## CSS Loader
+- https://webpack.js.org/guides/asset-management/#loading-css
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+## ⚒️ Built With
 
+- HTML, WEBPACK
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+## Live Demo
 
 
+## 🧰 Tools
 
-## Authors
+The following tools help make it easier to run this code.
 
-👤 **Author1**
+- [Visual Studio Code](https://code.visualstudio.com/): A source code editor
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+## 🔥 Getting Started
 
-👤 **Author2**
+If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
+[Download the ZIP from this location](https://github.com/altontonn/Webpack-SetUp/archive/refs/heads/main.zip), or run the following [git](https://github.com/altontonn/Webpack-SetUp.git) command to clone the files to your machine:
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+```bash
+git https://github.com/altontonn/Webpack-SetUp.git
+```
+
+- Once the files are downloaded or cloned on your machine, open the "Portfolio" folder in [Visual Studio Code(VSCode)](https://code.visualstudio.com/)
+- Optionally you can simply open the index.html file located in the "personal-portfolio" folder with your preferred browser
+
+## 🙎🏾‍♂️ Authors
+
+- GitHub: [Newton Alumasa](https://github.com/altontonn)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/altontonn/Webpack-SetUp/issues).
 
-## Show your support
+## Acknowledgements
+
+- Microverse
+
+## 👊🏾 Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
